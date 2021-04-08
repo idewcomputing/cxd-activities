@@ -23,5 +23,5 @@ Situated Learning Activity Instructions (~3-5 minute video and written outline)
 ## Deliverables
 Define a standard deliverable and an advanced deliverable...
 
-## Rubric
+## Rubrics
 Provide a basic rubric for each deliverable...
