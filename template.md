@@ -1,14 +1,18 @@
 # Activity Title
 ### Description
+Short description goes here...
 
 ### Author(s) and Reviewers
 Each listing may include organization and link
 
-### Grade Levels:
+### Grade Levels
+List all that apply...
 
-### Indiana Computer Science Standards:
+### Indiana Computer Science Standards
+List all that apply...
 
-### Tags:
+### Tags
+Choose from a predefined tag list...
 
 ## Background
 Background on Fundamental CS Concepts (~3-5 minute video and references for further reading)
@@ -16,7 +20,8 @@ Background on Fundamental CS Concepts (~3-5 minute video and references for furt
 ## Instructions
 Situated Learning Activity Instructions (~3-5 minute video and written outline)
 
-## Deliverable
-Define a standard deliverable and an advanced deliverable
+## Deliverables
+Define a standard deliverable and an advanced deliverable...
 
 ## Rubric
+Provide a basic rubric for each deliverable...
