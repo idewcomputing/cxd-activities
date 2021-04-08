@@ -1,17 +1,17 @@
 # Activity Title
-### Description
+#### Description
 Short description goes here...
 
-### Author(s) and Reviewers
+#### Author(s) and Reviewers
 Each listing may include organization and link
 
-### Grade Levels
+#### Grade Levels
 List all that apply...
 
-### Indiana Computer Science Standards
+#### Indiana Computer Science Standards
 List all that apply...
 
-### Tags
+#### Tags
 Choose from a predefined tag list...
 
 ## Background
