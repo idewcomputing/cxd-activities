@@ -18,35 +18,32 @@ You probably know that people sketch ideas for shoes, houses, and movie plots. B
 
 ![](<../../.gitbook/assets/vidComing (3).png>)
 
-Produce a concise video summary of the instructions provided below, potentially demonstrating steps with an example as needed. Provide a brief introduction to the instructions here, but allow the video to provide the detail and nuance of the activity.
-
-List the instructions clearly with appropriate links and images that support student completion of the activity.
-
 ### **Instructions**
 
-1. ..
-2. ...
-3. ...
-4. ...
+1. **Determine a topic for an informational mobile application**, an app that someone would use to get great information on a particular topic -- like recipes, fitness routines, school subjects, colleges, etc.&#x20;
+2. **Brainstorm ways that you could design the interface for a mobile app to search or browse information**. Come up with at least three different ideas by creating very simple sketches.
+3. **Discuss your ideas and sketches with somebody else** to get some quick feedback.
+4. **Choose a design direction and create at least two screen views** that represent how that application would look, helping people understand how it would work as well.
+
+### 🎉 Share your sketches with your teacher, friends, and family.
 
 ## **Rubric**
 
 Provide a simple rubric with three to four criteria to guide the expectations of the activity.
 
-|                  | Exemplary | Standard | Needs Improvement |
-| ---------------- | --------- | -------- | ----------------- |
-| Criteria Label 1 |           |          |                   |
-| Criteria Label 2 |           |          |                   |
-| Criteria Label 3 |           |          |                   |
+|                | Exemplary | Standard | Needs Improvement |
+| -------------- | --------- | -------- | ----------------- |
+| Sketch Detail  |           |          |                   |
+| Sketch Clarity |           |          |                   |
 
 ## **Extension Activities**
 
-Provide a one or two extension activities that teachers and students may choose to do. Include a brief description of how each extension could be approached.
+### Create a Dynamic Prototype
 
-### Extension Title 1
+You can take your sketches or create digital wireframes to create an interactive prototype rather quickly. Marvel is one of many options to consider.
 
-...
+{% embed url="https://marvelapp.com" %}
 
-### Extension Title 2
+### Conduct a More Detailed Prototype Review
 
-...
+{% embed url="https://www.interaction-design.org/literature/article/test-your-prototypes-how-to-gather-feedback-and-maximise-learning" %}
