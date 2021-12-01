@@ -4,11 +4,11 @@ description: ⚠️ DRAFT
 
 # What Makes an App Great?
 
-**We have all used apps that we think are great, but we have also used some that we didn't enjoy so much. **In this activity we want to dig a little deeper to investigate what characteristics support a good experience by evaluating an app and sharing the evaluation results. _#noCode #design #6-12_
+**We have all used apps that we think are great, but we have also used some that we didn't enjoy so much.** In this activity we want to dig a little deeper to investigate what characteristics support a good experience by evaluating an app and sharing the evaluation results. _#noCode #design #6-12_
 
 ### Contributors
 
-**Jim Lyst, **[**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 | **Grade Levels** | **Indiana CS Standards**                                     | **CSTA Standards** |
 | ---------------- | ------------------------------------------------------------ | ------------------ |
@@ -18,20 +18,20 @@ description: ⚠️ DRAFT
 
 {% embed url="https://www.loom.com/share/daf1fd57fbb7468289fac82fc8e3c6db" %}
 
-**In this activity you will evaluate an application **by conducting an independent review using usability principles as a checklist, followed by a written report or class presentation summarizing your findings and recommendations for improvement.
+**In this activity you will evaluate an application** by conducting an independent review using usability principles as a checklist, followed by a written report or class presentation summarizing your findings and recommendations for improvement.
 
 1. **Choose an application that you would like to evaluate consistent with your teacher's parameters.**\
    ****
-2. **Determine two primary tasks that can be completed with the application by a user to solve a problem. **For example, on Youtube 1) a user that wants to repair a faucet searches for a how-to video, and 2) an astronomy hobbyist wants to generate a fan base and starts a channel for her videos.\
+2. **Determine two primary tasks that can be completed with the application by a user to solve a problem.** For example, on Youtube 1) a user that wants to repair a faucet searches for a how-to video, and 2) an astronomy hobbyist wants to generate a fan base and starts a channel for her videos.\
 
 3.  **Complete a analysis by evaluating the app according to these usability principles for each task.**\
     ****\
     ****✅ **Functionally Correct** - Does the application allow you to complete the task correctly?
 
-    ✅** Efficient to Use **- Is the application allow a task to be done in a timely manner?\
-    ✅ **Easy to Learn **- Is the application intuitive to use the first time?
+    ✅ **Efficient to Use** - Is the application allow a task to be done in a timely manner?\
+    ✅ **Easy to Learn** - Is the application intuitive to use the first time?
 
-    ✅ **Easy to Remember **- Does the application support a memorable experience for later visits?
+    ✅ **Easy to Remember** - Does the application support a memorable experience for later visits?
 
     ✅ **Error Tolerant** - How easy can errors be made? Does the application support undoing errors?
 

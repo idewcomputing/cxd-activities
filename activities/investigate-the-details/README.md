@@ -19,7 +19,7 @@
 #### You can use three approaches to your research.
 
 > 💬  **You can listen to what users say about a product** by using techniques like interviews and surveys, \
-> 👀  **you can observe what user do with a product, **and\
+> 👀  **you can observe what user do with a product,** and\
 > 🤔  **you can do an independent review** based on heuristics (or "rules of thumb").&#x20;
 
 All three approaches are valuable and require the researcher to practice **empathy** for the best results. Each approach has it's advantages and disadvantages, and often UX researchers will use several techniques to develop a thorough evaluation.

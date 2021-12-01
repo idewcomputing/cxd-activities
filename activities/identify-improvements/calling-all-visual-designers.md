@@ -4,7 +4,7 @@ You have probably used a mobile app or a web site that you knew could be improve
 
 ### Contributors
 
-**Jim Lyst, **[**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 ## Instructions
 

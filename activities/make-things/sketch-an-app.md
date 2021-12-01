@@ -8,7 +8,7 @@ You probably know that people sketch ideas for shoes, houses, and movie plots. B
 
 ### Contributors
 
-**Jim Lyst, **[**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 | **Grade Levels** | **Indiana CS Standards** | **CSTA Standards** |
 | ---------------- | ------------------------ | ------------------ |

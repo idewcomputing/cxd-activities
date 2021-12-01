@@ -3,10 +3,10 @@
 * [Computing by Design Activities](README.md)
 * [📣 Call to Contribute](call-to-contribute.md)
 
-## Activities by Practice <a href="activities" id="activities"></a>
+## Activities by Practice <a href="#activities" id="activities"></a>
 
 * [Include Everybody](activities/include-everybody/README.md)
-  * [Designing for All Abilities](activities/include-everybody/designing-for-all-abilities.md)
+  * [Help Needed: Colors and Text with CSS](activities/include-everybody/help-needed-colors-and-text-with-css.md)
   * [Activity 2](activities/include-everybody/activity-2.md)
   * [Activity 3](activities/include-everybody/activity-3.md)
   * [Activity 4](activities/include-everybody/activity-4.md)

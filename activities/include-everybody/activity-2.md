@@ -1,8 +1,8 @@
-# Activity 2
+---
+description: ⚠️ DRAFT
+---
 
-| **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-|                  |                                                                                                                                |                                                                         |
+# Activity 2
 
 Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
 
@@ -12,17 +12,21 @@ Title the activity and include a short summary here of the activity -- two or th
 
 **Name, Organization**
 
+| **Grade Levels** | **Indiana CS Standards** | **CSTA Standards** |
+| ---------------- | ------------------------ | ------------------ |
+| 6 - 12           |                          |                    |
+
 ## **Instructions**
 
-![](https://lh4.googleusercontent.com/xvzWGSVBkwIgOJ98U9QaPHhx3i9ZGLvROEHJ2t4-z83uyFN3Ca680iM-GgnGf\_4sJtuYgWsoNYsS0EDazAvGe1uzjUt4dbfoVgIOjrL5gWNZUIJRRuPxsZ1JMntD0F8EGiVhEd3d=s0)
+![](<../../.gitbook/assets/vidComing (3).png>)
 
-Produce a concise video summary of the instructions below, potentially demonstrating steps with an example as needed. Provide a brief introduction to the instructions here, but allow the video to provide the detail and nuance of the activity.
+Produce a concise video summary of the instructions provided below, potentially demonstrating steps with an example as needed. Provide a brief introduction to the instructions here, but allow the video to provide the detail and nuance of the activity.
 
 List the instructions clearly with appropriate links and images that support student completion of the activity.
 
 ### **Instructions**
 
-1. ...
+1. ..
 2. ...
 3. ...
 4. ...

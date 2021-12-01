@@ -6,7 +6,7 @@
 
 ![](.gitbook/assets/image.png)
 
-**The computer science activities cover various levels (K-12) and offer intersections with many course subject areas.** Each activity will have an intended length of approximately one or two classroom hours. Activities will be organized into the following **seven practices **adopted from the US K-12 CS Framework.
+**The computer science activities cover various levels (K-12) and offer intersections with many course subject areas.** Each activity will have an intended length of approximately one or two classroom hours. Activities will be organized into the following **seven practices** adopted from the US K-12 CS Framework.
 
 ****[**INCLUDE EVERYBODY**](activities/include-everybody/)\
 **Fostering an Inclusive Computing Culture:** Incorporate perspectives from people of different genders, ethnicities, and abilities. To do this, teachers must first understand the personal, ethical, social, economic, and cultural identities/contexts in which they and their students operate. [**Learn more >**](activities/include-everybody/)****

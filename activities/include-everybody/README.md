@@ -6,6 +6,6 @@
 
 ### Activities
 
-{% content-ref url="designing-for-all-abilities.md" %}
-[designing-for-all-abilities.md](designing-for-all-abilities.md)
+{% content-ref url="activity-2.md" %}
+[activity-2.md](activity-2.md)
 {% endcontent-ref %}

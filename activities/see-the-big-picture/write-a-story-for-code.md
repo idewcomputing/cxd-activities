@@ -4,11 +4,11 @@ description: ⚠️ DRAFT
 
 # Write a Story for Code
 
-**Code has a story line – really. **If you think carefully about it, anytime we use an app we could describe things like characters, plots, and settings. Sure, it will read different than your favorite movie script, but it has a similar structure. In this exercise you will generate something called **pseudocode** for an app. No programming required, just a careful description of how a program works.
+**Code has a story line – really.** If you think carefully about it, anytime we use an app we could describe things like characters, plots, and settings. Sure, it will read different than your favorite movie script, but it has a similar structure. In this exercise you will generate something called **pseudocode** for an app. No programming required, just a careful description of how a program works.
 
 ### Contributors
 
-**Jim Lyst, **[**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 | **Grade Levels** | **Indiana CS Standards** | **CSTA Standards** |
 | ---------------- | ------------------------ | ------------------ |
