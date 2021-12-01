@@ -14,9 +14,9 @@ You have probably used a mobile app or a web site that you knew could be improve
 
 **This exercise requires access to a coding environment. Starting code is provided on replit.com but can be adapted to another platform.**
 
-#### **1 - Make a copy (fork) of the starter web site code for a short story.**
+#### **1 - Make a copy (fork) of the starter web site code for a search interface.**
 
-* Starter code: [https://replit.com/@jlyst/colorAndFont](https://replit.com/@jlyst/colorAndFont#style.css)
+* Starter code: [https://replit.com/@jlyst/improveInterface](https://replit.com/@jlyst/improveInterface)
 
 #### **2 - Notice the styles in the **_**styles.css**_** file that are applied to the heading, text input and button**. Try making some changes to colors, font sizes, and borders.
 
@@ -25,19 +25,19 @@ You have probably used a mobile app or a web site that you knew could be improve
 ```css
 h1 {
   color: blue;
-  font-size: 14px;
+  font-size: 28px;
 }
 ```
 
-#### 3 - Now consider what would be great colors and font sizes that make the short story fun and engaging, while being easy to read by all. Consider the following items and discuss your ideas with others.
+#### 3 - Now consider what would be great colors, border styles, and font sizes that make the search interface fun, engaging, and easy to use. Consider the following items and discuss your ideas with others.
 
-* Fun colors that provide a unique experience to the site.
-* Colors that provide high contrast so that it is easy for all to read.
-* Font sizes that make reading easy while keeping the site layout organized.
+* Colors that provide a unique experience to the site.
+* Text, input field, and button sizes that draw attention to the search function.
+* Border styles to the input field and buttons that refine the visual experience.
 
-#### 4 - Implement your changes and test them yourself. How does it look if your screen is set to low brightness? How about if you have bright lights shining on the screen, like the sun?
+#### 4 - Implement your changes and test them yourself. How do they look on screen of different sizes?
 
-#### 5 - Have three other people look at your site and ask them how easy it is to read. This would be a great opportunity to ask someone you know whose eyesight might not be a clear as yours. Make adjustments based on the feedback.
+#### 5 - Have three other people look at your site and ask them how usable and engaging it is. Make adjustments based on the feedback.
 
 ### 🎉 You can now share your site link with your teacher, friends and family for enjoyment .
 
@@ -52,10 +52,10 @@ Provide a simple rubric with three to four criteria to guide the expectations of
 
 ## **Extension Activities**
 
-### Extension Title 1
+### Background Image
 
-...
+Implement a background image to the whole page like [https://bing.com](https://www.bing.com).
 
-### Extension Title 2
+### Implement Icons
 
-...
+Use an icon in the button from [https://fontawesome.com/](https://fontawesome.com)
