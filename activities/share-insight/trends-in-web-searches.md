@@ -1,16 +1,14 @@
-# Activity 3
+# Trends in Web Searches
 
 | **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 |                  |                                                                                                                                |                                                                         |
 
-Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
+**What are the latest trends in web searches?** Did you know you can investigate the search history on any topic yourself going back for years? For this exercise you will use [**Google Trends**](https://trends.google.com/trends/) to investigate a topic to better understand the levels of interest on that topic in different geographical regions.
 
 ### Contributors
 
-**Name, Organization**
-
-**Name, Organization**
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 ## **Instructions**
 

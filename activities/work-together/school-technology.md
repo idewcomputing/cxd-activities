@@ -1,16 +1,18 @@
-# Activity 2
+---
+description: ⚠️ DRAFT
+---
+
+# School Technology
 
 | **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 |                  |                                                                                                                                |                                                                         |
 
-Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
+Many people depend on school technology – students, teachers, parents, and administrators. Designing or choosing the right tools for a large organization can be very complicated. Features that work great for one group many not work well for another. In this exercise you will interview different [**stakeholders**](https://www.wordnik.com/words/stakeholder) to uncover what is working well, or not, with your school's learning managements system. With this information you can then make a few recommendations for improving how the technology is used.
 
 ### Contributors
 
-**Name, Organization**
-
-**Name, Organization**
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 ## **Instructions**
 

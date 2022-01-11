@@ -1,16 +1,18 @@
-# Activity 3
+---
+description: ⚠️ DRAFT
+---
+
+# Give Advice with Markdown
 
 | **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 |                  |                                                                                                                                |                                                                         |
 
-Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
+**Markdown is a popular **_**markup language**_** for creating documents with a simple format.** It is used extensively by programmers and writers to quickly create documents that can be easily stored and shared in a standardized format.  In this exercise you will generate a document giving advice to the public on how to use social media in a fun, productive, and safe way.
 
 ### Contributors
 
-**Name, Organization**
-
-**Name, Organization**
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 ## **Instructions**
 

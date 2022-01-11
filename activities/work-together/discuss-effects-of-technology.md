@@ -1,16 +1,18 @@
-# Activity 3
+---
+description: ⚠️ DRAFT
+---
+
+# Discuss Effects of Technology
 
 | **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 |                  |                                                                                                                                |                                                                         |
 
-Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
+**What are your opinions on the effects of technology regarding privacy, security, mental health, and accessibility?** These are complicated topics with a lot to consider and often difficult to discuss. In this activity you will use a technique called the _constellation retrospective,_ used in agile development, to allow a team to share their sentiment on topics.
 
 ### Contributors
 
-**Name, Organization**
-
-**Name, Organization**
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)**Name, Organization**
 
 ## **Instructions**
 

@@ -1,10 +1,10 @@
-# Activity 3
+# Visualizing Data
 
 | **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 |                  |                                                                                                                                |                                                                         |
 
-Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
+**A picture is worth a thousand words, right?** Well, it can be if we use them right. Visualizing data to provide a storyline about a topic is powerful. In this exercise we will investigate data visualizations to reveal what features and attributes make them most useful.&#x20;
 
 ### Contributors
 

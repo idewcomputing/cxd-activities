@@ -1,16 +1,14 @@
-# Activity 2
+# Interactions with an App
 
 | **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 |                  |                                                                                                                                |                                                                         |
 
-Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
+**What goes through your mind as you are using an app?** We often use applications almost without thinking, but what is really going on at each step? In this exercise we will analyze how we complete a task, step by step, like sharing a photo with friends for example. It seems simple, but you may find some surprising things if you study it closely.
 
 ### Contributors
 
-**Name, Organization**
-
-**Name, Organization**
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 ## **Instructions**
 

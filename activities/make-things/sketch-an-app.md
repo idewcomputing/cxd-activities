@@ -4,6 +4,10 @@ description: ⚠️ DRAFT
 
 # Sketch an App
 
+| **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+|                  |                                                                                                                                |                                                                         |
+
 You probably know that people sketch ideas for shoes, houses, and movie plots. But did you know people do the same for mobile and computer apps? This is an important skill for **user experience designers** and **user interface designers**. In this exercise you will **sketch an interface storyboard** for a new app to share your idea with others.
 
 ### Contributors

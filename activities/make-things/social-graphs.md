@@ -1,16 +1,18 @@
-# Activity 2
+---
+description: ⚠️ DRAFT
+---
+
+# Social Graphs
 
 | **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 |                  |                                                                                                                                |                                                                         |
 
-Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
+**Let's visualize connections in a social network.** You have probably seen visualizations of social graphs before, but did you know there are ways to measure these relationships? In this exercise we will create social graphs and consider, "What are some good uses of this technique?" and "What are some detrimental ways it could be used?".&#x20;
 
 ### Contributors
 
-**Name, Organization**
-
-**Name, Organization**
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 ## **Instructions**
 

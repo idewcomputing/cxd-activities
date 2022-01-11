@@ -4,13 +4,15 @@ description: ⚠️ DRAFT
 
 # Activity 2
 
+| **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+|                  |                                                                                                                                |                                                                         |
+
 Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
 
 ### Contributors
 
-**Name, Organization**
-
-**Name, Organization**
+****
 
 | **Grade Levels** | **Indiana CS Standards** | **CSTA Standards** |
 | ---------------- | ------------------------ | ------------------ |

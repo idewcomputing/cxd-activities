@@ -1,16 +1,14 @@
-# Activity 2
+# Identifying the Top Features
 
 | **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 |                  |                                                                                                                                |                                                                         |
 
-Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
+**Have you ever heard of the 80/20 rule?** Well, it is shows up a lot of ways in life, but one example has to do what features get used in an application. We could say that the top 20% of features in an app get used 80% of the time by the users. So identifying the high priorities features can be really important. In this exercise we will analyze an application and generate a prioritized list of features.&#x20;
 
 ### Contributors
 
-**Name, Organization**
-
-**Name, Organization**
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 ## **Instructions**
 

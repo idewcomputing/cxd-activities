@@ -4,7 +4,7 @@ description: ⚠️ DRAFT
 
 # Write a Story for Code
 
-**Code has a story line – really.** If you think carefully about it, anytime we use an app we could describe things like characters, plots, and settings. Sure, it will read different than your favorite movie script, but it has a similar structure. In this exercise you will generate something called **pseudocode** for an app. No programming required, just a careful description of how a program works.
+**Code has a story line. Really, it does.** If you think carefully about it, anytime we use an app we could describe things like characters, plots, and settings. Sure, it will read different than your favorite movie script, but it has a similar structure. In this exercise you will generate something called **pseudocode** for an app. No programming required, just a careful description of how a program works.
 
 ### Contributors
 
