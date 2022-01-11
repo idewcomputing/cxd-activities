@@ -12,7 +12,7 @@ description: ⚠️ DRAFT
 
 ### Contributors
 
-**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)**Name, Organization**
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 ## **Instructions**
 
