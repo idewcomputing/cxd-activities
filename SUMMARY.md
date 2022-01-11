@@ -38,7 +38,7 @@
 * [Make Things](activities/make-things/README.md)
   * [Sketch an App](activities/make-things/sketch-an-app.md)
   * [Social Graphs](activities/make-things/social-graphs.md)
-  * [Activity 3](activities/make-things/activity-3.md)
+  * [Physical Computing](activities/make-things/physical-computing.md)
   * [Activity 4](activities/make-things/activity-4.md)
   * [Activity 5](activities/make-things/activity-5.md)
 * [Identify Improvements](activities/identify-improvements/README.md)

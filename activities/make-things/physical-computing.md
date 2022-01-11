@@ -1,16 +1,18 @@
-# Activity 3
+---
+description: ⚠️ DRAFT
+---
+
+# Physical Computing
 
 | **Grade Levels** | ****[**Indiana CS Standards**](https://www.doe.in.gov/sites/default/files/wf-stem/ind-k-12-computer-science-standards.pdf)**** | ****[**CSTA Standards**](https://www.csteachers.org/page/standards)**** |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 |                  |                                                                                                                                |                                                                         |
 
-Title the activity and include a short summary here of the activity -- two or three sentences. You may want to include a photo that complements the topic.
+**Let's consider computing that goes beyond screens and keyboards.** Physical computing refers to computer devices that are embedded in our world that can use a variety of sensory inputs to detect things in the physical world and generate a variety of outputs as well. The sensors can detect things like light, sound, vibration, motion, buttons, and temperature, while the outputs can be things like motors, displays, indicator lights, and sound. In this exercise you will sketch a physical device and identify the necessary inputs and outputs for the device to solve a particular problem.
 
 ### Contributors
 
-**Name, Organization**
-
-**Name, Organization**
+**Jim Lyst,** [**School of Informatics and Computing @ IUPUI**](https://soic.iupui.edu)****
 
 ## **Instructions**
 
